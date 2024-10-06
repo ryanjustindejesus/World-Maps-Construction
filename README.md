@@ -39,12 +39,3 @@
 
 ![image](https://github.com/user-attachments/assets/974915ae-f6c5-44ea-ad8f-6083f74175b8)
 - <b>Nsg-malicious-allowed-in world map creation</b>
-
-![image](https://github.com/user-attachments/assets/a7d517b3-a7a5-48fc-a41d-e575b6703513)
-- </b>Mssql-auth-fail world map creation</b>
-
-
-
-
-
-
