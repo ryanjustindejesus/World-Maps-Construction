@@ -1,5 +1,6 @@
 <h1>World Maps Construction</h1>
-<b>This tutorial outlines the configuration world maps for Windows, Linux, MSSQL, and Network Security Groups using Microsoft Sentinel</b>
+
+- <b>This tutorial outlines the configuration world maps for Windows, Linux, MSSQL, and Network Security Groups using Microsoft Sentinel</b>
 
 <h2>Environments and Technologies Used</h2>
 
